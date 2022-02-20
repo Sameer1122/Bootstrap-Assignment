@@ -1,0 +1,128 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#oneh{
+  text-align: center;
+  margin-top: 20px;
+}
+#onehh{
+  margin-top: 20px;
+  text-align: center;
+  color: gray;
+}
+#center {
+  margin-top: 50px;
+}
+#about1{
+  background-color: #7710f7;
+  height: 200;
+
+}
+#about{
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 170px;;
+}
+#desginer{
+  text-align: center;
+  padding-top: 50px;
+}
+#cnt{
+  position: relative;
+    top: -103px;
+    background-color: white; 
+}
+ul{
+  padding: 0px;
+}
+ul li{
+  list-style: none;
+}
+.img2 img{
+  margin-bottom: 15px;
+}
+#cardss{
+  position: relative;
+    top: -100px;
+
+}
+#imgt{
+  width: 15%;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #7710f7;
+  border-radius: 50%;
+  display: inline-block;
+}
+#ftr{
+background-color:#7710f7;
+padding-top: 200px;
+color: white;
+}
+.startp{
+  background: #151b3b;
+    color: white;
+    position: relative;
+    padding: 30px;
+    top: 90px;
+}
+.ftt a{
+  text-decoration: none;
+
+}
+.ftt a i{
+  color: white;
+  border: solid 1px;
+  padding: 10px;
+  margin-right: 5px;
+  border-radius: 30px;
+}
+#btn2{
+  background: transparent;
+    color: white;
+    border: solid 1px;
+    border-color: #292a5a;
+    border-radius: 20px;
+    padding: 10px;
+}
+#btn2 :hover {
+  background-color: rgb(34, 146, 232);
+}
+.pp p{
+  color: #a0a1a5;
+}
+.pp2 p{
+  color: #a0a1a5;
+
+}
+.btn3{
+  background: transparent;
+  border: solid 1px;
+  color: #7710f7;
+  border-radius: 15px;
+}
+.btnnn{
+  background: transparent;
+  border: solid 1px;
+  color: #7710f7;
+  border-radius: 15px;
+}
+.sec1{
+  margin-bottom: 125px;
+}
+.sec2{
+  margin-bottom: 100px;
+}
+.tst{
+  margin-top: 125px;
+}
+.butn{
+  background: transparent;
+  border: solid 1px;
+  color: #7710f7;
+  border-radius: 15px;
+}
